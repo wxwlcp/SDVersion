@@ -50,6 +50,10 @@
                               @"iPhone10,6" : @(iPhoneX),
                               @"i386"       : @(Simulator),
                               @"x86_64"     : @(Simulator),
+                              @"iPhone11,2" : @(iPhoneXS),
+                              @"iPhone11,4" : @(iPhoneXSMax),
+                              @"iPhone11,6" : @(iPhoneXSMax),
+                              @"iPhone11,8" : @(iPhoneXR),
                               
                               //iPads
                               @"iPad1,1"  : @(iPad1),
@@ -186,6 +190,9 @@
              @(iPhone8Plus)          : @"iPhone 8 Plus",
              @(iPhoneX)              : @"iPhone X",
              @(iPhoneSE)             : @"iPhone SE",
+             @(iPhoneXS)             :@"iPhone XS",
+             @(iPhoneXSMax)          :@"iPhone XS Max",
+             @(iPhoneXR)             :@"iPhone XR",
              
              @(iPad1)                : @"iPad 1",
              @(iPad2)                : @"iPad 2",

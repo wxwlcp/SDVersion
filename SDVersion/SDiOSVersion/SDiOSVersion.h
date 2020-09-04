@@ -48,7 +48,12 @@ typedef NS_ENUM(NSInteger, DeviceVersion){
     iPodTouch3Gen         = 35,
     iPodTouch4Gen         = 36,
     iPodTouch5Gen         = 37,
-    iPodTouch6Gen         = 38
+    iPodTouch6Gen         = 38,
+    
+    iPhoneXS              = 39,
+    iPhoneXSMax           = 40,
+    iPhoneXR              = 41,
+    
 };
 
 typedef NS_ENUM(NSInteger, DeviceSize){
